@@ -13,7 +13,7 @@ export const HomePage: React.FC = () => {
   
   const handleShare = () => {
     // Share functionality would be implemented here
-    alert('Share functionality would open a modal with a shareable image');
+    alert('Bhai, ruk ja thoda 😅 website abhi under construction mein hai 🛠️, thoda sabr rakh!');
   };
 
   const handleSaveResult = () => {
