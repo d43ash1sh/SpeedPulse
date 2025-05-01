@@ -41,7 +41,9 @@
 
 ## 📸 UI/UX Preview
 
-![SpeedPulse Mockup](./iPhone%2015%20Set%20Mockup.jpeg)
+<p align="center">
+  <img src="./iPhone%2015%20Set%20Mockup.jpeg" alt="SpeedPulse UI Mockup" width="80%">
+</p>
 
 ---
 
