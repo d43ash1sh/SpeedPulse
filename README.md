@@ -41,7 +41,7 @@
 
 ## 📸 UI/UX Preview
 
-> Coming soon...
+![SpeedPulse Mockup](./iPhone%2015%20Set%20Mockup.jpeg)
 
 ---
 
